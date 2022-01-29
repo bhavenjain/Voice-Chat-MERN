@@ -1,0 +1,39 @@
+.navbar {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+}
+
+.span {
+    margin-left: 10px;
+}
+
+.navRight {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logoutButton {
+    background: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+.avatar {
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #0077ff;
+    margin: 0 20px;
+    margin-right: 10px;
+}
